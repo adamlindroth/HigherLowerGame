@@ -1,0 +1,3002 @@
+[
+    {
+        "name": "Real Madrid",
+        "pts": 372,
+        "rank": 1,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50051.png"
+    },
+    {
+        "name": "Bayern",
+        "pts": 324,
+        "rank": 2,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50037.png"
+    },
+    {
+        "name": "Barcelona",
+        "pts": 301,
+        "rank": 3,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50080.png"
+    },
+    {
+        "name": "Chelsea",
+        "pts": 247,
+        "rank": 4,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52914.png"
+    },
+    {
+        "name": "Atlético",
+        "pts": 246,
+        "rank": 5,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50124.png"
+    },
+    {
+        "name": "Juventus",
+        "pts": 230,
+        "rank": 6,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50139.png"
+    },
+    {
+        "name": "Paris",
+        "pts": 217,
+        "rank": 7,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52747.png"
+    },
+    {
+        "name": "Man. City",
+        "pts": 210,
+        "rank": 8,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52919.png"
+    },
+    {
+        "name": "Man. United",
+        "pts": 204,
+        "rank": 9,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52682.png"
+    },
+    {
+        "name": "Dortmund",
+        "pts": 193,
+        "rank": 10,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52758.png"
+    },
+    {
+        "name": "Arsenal",
+        "pts": 191,
+        "rank": 11,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52280.png"
+    },
+    {
+        "name": "Sevilla",
+        "pts": 185.5,
+        "rank": 12,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52714.png"
+    },
+    {
+        "name": "Porto",
+        "pts": 185,
+        "rank": 13,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50064.png"
+    },
+    {
+        "name": "Liverpool",
+        "pts": 182,
+        "rank": 14,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/7889.png"
+    },
+    {
+        "name": "Benfica",
+        "pts": 172,
+        "rank": 15,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50147.png"
+    },
+    {
+        "name": "Ajax",
+        "pts": 155.5,
+        "rank": 16,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50143.png"
+    },
+    {
+        "name": "Shakhtar Donetsk",
+        "pts": 154,
+        "rank": 17,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52707.png"
+    },
+    {
+        "name": "Napoli",
+        "pts": 151,
+        "rank": 18,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50136.png"
+    },
+    {
+        "name": "Tottenham",
+        "pts": 150,
+        "rank": 19,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/1652.png"
+    },
+    {
+        "name": "Zenit",
+        "pts": 135,
+        "rank": 20,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52826.png"
+    },
+    {
+        "name": "Leverkusen",
+        "pts": 131,
+        "rank": 21,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50109.png"
+    },
+    {
+        "name": "Basel",
+        "pts": 130,
+        "rank": 22,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59856.png"
+    },
+    {
+        "name": "Lyon",
+        "pts": 128.5,
+        "rank": 23,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/5312.png"
+    },
+    {
+        "name": "Milan",
+        "pts": 126,
+        "rank": 24,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50058.png"
+    },
+    {
+        "name": "Valencia",
+        "pts": 119,
+        "rank": 25,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52268.png"
+    },
+    {
+        "name": "Inter",
+        "pts": 118,
+        "rank": 26,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50138.png"
+    },
+    {
+        "name": "Roma",
+        "pts": 117.5,
+        "rank": 27,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50137.png"
+    },
+    {
+        "name": "Schalke",
+        "pts": 117,
+        "rank": 28,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/57388.png"
+    },
+    {
+        "name": "Olympiacos",
+        "pts": 108,
+        "rank": 29,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2610.png"
+    },
+    {
+        "name": "Dynamo Kyiv",
+        "pts": 106,
+        "rank": 30,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52723.png"
+    },
+    {
+        "name": "Villarreal",
+        "pts": 105,
+        "rank": 31,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/70691.png"
+    },
+    {
+        "name": "Salzburg",
+        "pts": 96.5,
+        "rank": 32,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50030.png"
+    },
+    {
+        "name": "Lazio",
+        "pts": 95,
+        "rank": 33,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52973.png"
+    },
+    {
+        "name": "Sporting CP",
+        "pts": 87.5,
+        "rank": 34,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50149.png"
+    },
+    {
+        "name": "PSV",
+        "pts": 84,
+        "rank": 35,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50062.png"
+    },
+    {
+        "name": "CSKA Moskva",
+        "pts": 80.5,
+        "rank": 36,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/54266.png"
+    },
+    {
+        "name": "Beşiktaş",
+        "pts": 77,
+        "rank": 37,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50157.png"
+    },
+    {
+        "name": "Celtic",
+        "pts": 75,
+        "rank": 38,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50050.png"
+    },
+    {
+        "name": "Anderlecht",
+        "pts": 74,
+        "rank": 39,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50074.png"
+    },
+    {
+        "name": "Athletic Club",
+        "pts": 73,
+        "rank": 40,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50125.png"
+    },
+    {
+        "name": "Marseille",
+        "pts": 72,
+        "rank": 41,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52748.png"
+    },
+    {
+        "name": "Plzeň",
+        "pts": 71.5,
+        "rank": 42,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64388.png"
+    },
+    {
+        "name": "Club Brugge",
+        "pts": 70.5,
+        "rank": 43,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50043.png"
+    },
+    {
+        "name": "Galatasaray",
+        "pts": 70,
+        "rank": 44,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50067.png"
+    },
+    {
+        "name": "Braga",
+        "pts": 67.5,
+        "rank": 45,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52336.png"
+    },
+    {
+        "name": "Leipzig",
+        "pts": 66,
+        "rank": 46,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2603790.png"
+    },
+    {
+        "name": "Dinamo Zagreb",
+        "pts": 65.5,
+        "rank": 47,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50164.png"
+    },
+    {
+        "name": "Copenhagen",
+        "pts": 64.5,
+        "rank": 48,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52709.png"
+    },
+    {
+        "name": "Monaco",
+        "pts": 62,
+        "rank": 49,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50023.png"
+    },
+    {
+        "name": "Mönchengladbach",
+        "pts": 61,
+        "rank": 50,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52757.png"
+    },
+    {
+        "name": "APOEL",
+        "pts": 59.5,
+        "rank": 51,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50118.png"
+    },
+    {
+        "name": "AZ Alkmaar",
+        "pts": 58,
+        "rank": 52,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52327.png"
+    },
+    {
+        "name": "Genk",
+        "pts": 58,
+        "rank": 53,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/61582.png"
+    },
+    {
+        "name": "FCSB",
+        "pts": 56.5,
+        "rank": 54,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50065.png"
+    },
+    {
+        "name": "Fiorentina",
+        "pts": 55,
+        "rank": 55,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52817.png"
+    },
+    {
+        "name": "Wolfsburg",
+        "pts": 54.5,
+        "rank": 56,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64332.png"
+    },
+    {
+        "name": "Fenerbahçe",
+        "pts": 53.5,
+        "rank": 57,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52692.png"
+    },
+    {
+        "name": "Young Boys",
+        "pts": 53,
+        "rank": 58,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50031.png"
+    },
+    {
+        "name": "Lokomotiv Moskva",
+        "pts": 51.5,
+        "rank": 59,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/53065.png"
+    },
+    {
+        "name": "PAOK",
+        "pts": 51.5,
+        "rank": 60,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50130.png"
+    },
+    {
+        "name": "Sparta Praha",
+        "pts": 51.5,
+        "rank": 61,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50033.png"
+    },
+    {
+        "name": "Ludogorets",
+        "pts": 51,
+        "rank": 62,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2603104.png"
+    },
+    {
+        "name": "Atalanta",
+        "pts": 50.5,
+        "rank": 63,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52816.png"
+    },
+    {
+        "name": "Krasnodar",
+        "pts": 48.5,
+        "rank": 64,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2601038.png"
+    },
+    {
+        "name": "BATE",
+        "pts": 47.5,
+        "rank": 65,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/66168.png"
+    },
+    {
+        "name": "Dnipro",
+        "pts": 46.5,
+        "rank": 66,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50158.png"
+    },
+    {
+        "name": "Frankfurt",
+        "pts": 46,
+        "rank": 67,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50072.png"
+    },
+    {
+        "name": "Slavia Praha",
+        "pts": 43.5,
+        "rank": 68,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52498.png"
+    },
+    {
+        "name": "Gent",
+        "pts": 43.5,
+        "rank": 69,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/4608.png"
+    },
+    {
+        "name": "Rubin",
+        "pts": 42,
+        "rank": 70,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/82818.png"
+    },
+    {
+        "name": "Standard Liège",
+        "pts": 41.5,
+        "rank": 71,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52165.png"
+    },
+    {
+        "name": "Crvena zvezda",
+        "pts": 40.75,
+        "rank": 72,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50069.png"
+    },
+    {
+        "name": "Granada",
+        "pts": 40.713,
+        "rank": 73,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2602893.png"
+    },
+    {
+        "name": "Real Sociedad",
+        "pts": 40.713,
+        "rank": 74,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50123.png"
+    },
+    {
+        "name": "Getafe",
+        "pts": 40.713,
+        "rank": 75,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/87960.png"
+    },
+    {
+        "name": "Espanyol",
+        "pts": 40.713,
+        "rank": 76,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/54189.png"
+    },
+    {
+        "name": "Betis",
+        "pts": 40.713,
+        "rank": 77,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52265.png"
+    },
+    {
+        "name": "Celta",
+        "pts": 40.713,
+        "rank": 78,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/53043.png"
+    },
+    {
+        "name": "Málaga",
+        "pts": 40.713,
+        "rank": 79,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/74069.png"
+    },
+    {
+        "name": "Levante",
+        "pts": 40.713,
+        "rank": 80,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/87959.png"
+    },
+    {
+        "name": "Feyenoord",
+        "pts": 40,
+        "rank": 81,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52749.png"
+    },
+    {
+        "name": "Legia",
+        "pts": 40,
+        "rank": 82,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50146.png"
+    },
+    {
+        "name": "M. Tel-Aviv",
+        "pts": 37,
+        "rank": 83,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/57477.png"
+    },
+    {
+        "name": "Rapid Wien",
+        "pts": 35.5,
+        "rank": 84,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50042.png"
+    },
+    {
+        "name": "Leicester",
+        "pts": 35.37,
+        "rank": 85,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/53577.png"
+    },
+    {
+        "name": "Wolves",
+        "pts": 35.37,
+        "rank": 86,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/53357.png"
+    },
+    {
+        "name": "Burnley",
+        "pts": 35.37,
+        "rank": 87,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/53354.png"
+    },
+    {
+        "name": "Everton",
+        "pts": 35.37,
+        "rank": 88,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52281.png"
+    },
+    {
+        "name": "Southampton",
+        "pts": 35.37,
+        "rank": 89,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52923.png"
+    },
+    {
+        "name": "West Ham",
+        "pts": 35.37,
+        "rank": 90,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/53358.png"
+    },
+    {
+        "name": "Hull",
+        "pts": 35.37,
+        "rank": 91,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2600537.png"
+    },
+    {
+        "name": "Swansea",
+        "pts": 35.37,
+        "rank": 92,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52659.png"
+    },
+    {
+        "name": "Wigan",
+        "pts": 35.37,
+        "rank": 93,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/89696.png"
+    },
+    {
+        "name": "Newcastle",
+        "pts": 35.37,
+        "rank": 94,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59324.png"
+    },
+    {
+        "name": "Stoke",
+        "pts": 35.37,
+        "rank": 95,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/53356.png"
+    },
+    {
+        "name": "Birmingham",
+        "pts": 35.37,
+        "rank": 96,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/53342.png"
+    },
+    {
+        "name": "Fulham",
+        "pts": 35.37,
+        "rank": 97,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/75386.png"
+    },
+    {
+        "name": "Rangers",
+        "pts": 33.75,
+        "rank": 98,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50121.png"
+    },
+    {
+        "name": "Molde",
+        "pts": 33.5,
+        "rank": 99,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50142.png"
+    },
+    {
+        "name": "Malmö",
+        "pts": 33.5,
+        "rank": 100,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50152.png"
+    },
+    {
+        "name": "LOSC",
+        "pts": 33,
+        "rank": 101,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/75797.png"
+    },
+    {
+        "name": "Maribor",
+        "pts": 33,
+        "rank": 102,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/57490.png"
+    },
+    {
+        "name": "Trabzonspor",
+        "pts": 32.5,
+        "rank": 103,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52731.png"
+    },
+    {
+        "name": "Astana",
+        "pts": 32.25,
+        "rank": 104,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2600605.png"
+    },
+    {
+        "name": "Partizan",
+        "pts": 32,
+        "rank": 105,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50162.png"
+    },
+    {
+        "name": "Qarabağ",
+        "pts": 31.5,
+        "rank": 106,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/60609.png"
+    },
+    {
+        "name": "Hoffenheim",
+        "pts": 30.749,
+        "rank": 107,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2600431.png"
+    },
+    {
+        "name": "Hertha",
+        "pts": 30.749,
+        "rank": 108,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/5451.png"
+    },
+    {
+        "name": "Köln",
+        "pts": 30.749,
+        "rank": 109,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50018.png"
+    },
+    {
+        "name": "Freiburg",
+        "pts": 30.749,
+        "rank": 110,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59880.png"
+    },
+    {
+        "name": "Mainz",
+        "pts": 30.749,
+        "rank": 111,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/70853.png"
+    },
+    {
+        "name": "Augsburg",
+        "pts": 30.749,
+        "rank": 112,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2600978.png"
+    },
+    {
+        "name": "Stuttgart",
+        "pts": 30.749,
+        "rank": 113,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50107.png"
+    },
+    {
+        "name": "Hannover",
+        "pts": 30.749,
+        "rank": 114,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/57488.png"
+    },
+    {
+        "name": "Metalist",
+        "pts": 30,
+        "rank": 115,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50102.png"
+    },
+    {
+        "name": "Torino",
+        "pts": 29.175,
+        "rank": 116,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50029.png"
+    },
+    {
+        "name": "Sassuolo",
+        "pts": 29.175,
+        "rank": 117,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2600632.png"
+    },
+    {
+        "name": "Sampdoria",
+        "pts": 29.175,
+        "rank": 118,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50089.png"
+    },
+    {
+        "name": "Udinese",
+        "pts": 29.175,
+        "rank": 119,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/51310.png"
+    },
+    {
+        "name": "Palermo",
+        "pts": 29.175,
+        "rank": 120,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/88182.png"
+    },
+    {
+        "name": "CFR Cluj",
+        "pts": 28.5,
+        "rank": 121,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/88131.png"
+    },
+    {
+        "name": "St-Étienne",
+        "pts": 28.5,
+        "rank": 122,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50022.png"
+    },
+    {
+        "name": "İstanbul Başakşehir",
+        "pts": 27.5,
+        "rank": 123,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2600288.png"
+    },
+    {
+        "name": "Spartak Moskva",
+        "pts": 27.5,
+        "rank": 124,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50068.png"
+    },
+    {
+        "name": "Midtjylland",
+        "pts": 24.5,
+        "rank": 125,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/75795.png"
+    },
+    {
+        "name": "Austria Wien",
+        "pts": 24,
+        "rank": 126,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50110.png"
+    },
+    {
+        "name": "Bordeaux",
+        "pts": 24,
+        "rank": 127,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50127.png"
+    },
+    {
+        "name": "Liberec",
+        "pts": 23.5,
+        "rank": 128,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64385.png"
+    },
+    {
+        "name": "Sheriff",
+        "pts": 23.25,
+        "rank": 129,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/69606.png"
+    },
+    {
+        "name": "Rijeka",
+        "pts": 23,
+        "rank": 130,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52356.png"
+    },
+    {
+        "name": "Rosenborg",
+        "pts": 23,
+        "rank": 131,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52806.png"
+    },
+    {
+        "name": "Zürich",
+        "pts": 23,
+        "rank": 132,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/51150.png"
+    },
+    {
+        "name": "Rennes",
+        "pts": 22,
+        "rank": 133,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/55031.png"
+    },
+    {
+        "name": "Nice",
+        "pts": 21.766,
+        "rank": 134,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52355.png"
+    },
+    {
+        "name": "Reims",
+        "pts": 21.766,
+        "rank": 135,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64165.png"
+    },
+    {
+        "name": "Strasbourg",
+        "pts": 21.766,
+        "rank": 136,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59857.png"
+    },
+    {
+        "name": "Guingamp",
+        "pts": 21.766,
+        "rank": 137,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/60442.png"
+    },
+    {
+        "name": "Montpellier",
+        "pts": 21.766,
+        "rank": 138,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50128.png"
+    },
+    {
+        "name": "Sochaux",
+        "pts": 21.766,
+        "rank": 139,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52813.png"
+    },
+    {
+        "name": "AEK",
+        "pts": 21.5,
+        "rank": 140,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50129.png"
+    },
+    {
+        "name": "LASK",
+        "pts": 21,
+        "rank": 141,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/63405.png"
+    },
+    {
+        "name": "Anji",
+        "pts": 21,
+        "rank": 142,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/75050.png"
+    },
+    {
+        "name": "Twente",
+        "pts": 20.5,
+        "rank": 143,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52818.png"
+    },
+    {
+        "name": "Rio Ave",
+        "pts": 20.326,
+        "rank": 144,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64237.png"
+    },
+    {
+        "name": "Vitória SC",
+        "pts": 20.326,
+        "rank": 145,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50097.png"
+    },
+    {
+        "name": "Marítimo",
+        "pts": 20.326,
+        "rank": 146,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/53013.png"
+    },
+    {
+        "name": "Arouca",
+        "pts": 20.326,
+        "rank": 147,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2602955.png"
+    },
+    {
+        "name": "Belenenses",
+        "pts": 20.326,
+        "rank": 148,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50148.png"
+    },
+    {
+        "name": "Estoril",
+        "pts": 20.326,
+        "rank": 149,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/87944.png"
+    },
+    {
+        "name": "Nacional",
+        "pts": 20.326,
+        "rank": 150,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/53010.png"
+    },
+    {
+        "name": "Paços Ferreira",
+        "pts": 20.326,
+        "rank": 151,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/75817.png"
+    },
+    {
+        "name": "Académica",
+        "pts": 20.326,
+        "rank": 152,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64232.png"
+    },
+    {
+        "name": "Apollon",
+        "pts": 19.5,
+        "rank": 153,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52741.png"
+    },
+    {
+        "name": "Dynamo Moscow",
+        "pts": 19,
+        "rank": 154,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52704.png"
+    },
+    {
+        "name": "H. Beer-Sheva",
+        "pts": 18.5,
+        "rank": 155,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59340.png"
+    },
+    {
+        "name": "Fehérvár",
+        "pts": 18.25,
+        "rank": 156,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52288.png"
+    },
+    {
+        "name": "Zorya Luhansk",
+        "pts": 18,
+        "rank": 157,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/65130.png"
+    },
+    {
+        "name": "Rostov",
+        "pts": 17.892,
+        "rank": 158,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64500.png"
+    },
+    {
+        "name": "Arsenal Tula",
+        "pts": 17.892,
+        "rank": 159,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2606414.png"
+    },
+    {
+        "name": "Ufa",
+        "pts": 17.892,
+        "rank": 160,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2606415.png"
+    },
+    {
+        "name": "Kuban",
+        "pts": 17.892,
+        "rank": 161,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/85939.png"
+    },
+    {
+        "name": "Alania",
+        "pts": 17.892,
+        "rank": 162,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59043.png"
+    },
+    {
+        "name": "Desna",
+        "pts": 15.596,
+        "rank": 163,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2605051.png"
+    },
+    {
+        "name": "Kolos Kovalivka",
+        "pts": 15.596,
+        "rank": 164,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2609189.png"
+    },
+    {
+        "name": "Olexandriya",
+        "pts": 15.596,
+        "rank": 165,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/77928.png"
+    },
+    {
+        "name": "Mariupol",
+        "pts": 15.596,
+        "rank": 166,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64309.png"
+    },
+    {
+        "name": "Vorskla",
+        "pts": 15.596,
+        "rank": 167,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/62174.png"
+    },
+    {
+        "name": "Olimpik Donetsk",
+        "pts": 15.596,
+        "rank": 168,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2606502.png"
+    },
+    {
+        "name": "Chornomorets Odesa",
+        "pts": 15.596,
+        "rank": 169,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/53064.png"
+    },
+    {
+        "name": "Metalurh Donetsk",
+        "pts": 15.596,
+        "rank": 170,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64312.png"
+    },
+    {
+        "name": "Arsenal Kyiv",
+        "pts": 15.596,
+        "rank": 171,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64313.png"
+    },
+    {
+        "name": "Karpaty",
+        "pts": 15.596,
+        "rank": 172,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59032.png"
+    },
+    {
+        "name": "Antwerp",
+        "pts": 15.3,
+        "rank": 173,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50113.png"
+    },
+    {
+        "name": "Charleroi",
+        "pts": 15.3,
+        "rank": 174,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52886.png"
+    },
+    {
+        "name": "Zulte Waregem",
+        "pts": 15.3,
+        "rank": 175,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/89675.png"
+    },
+    {
+        "name": "Oostende",
+        "pts": 15.3,
+        "rank": 176,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/68496.png"
+    },
+    {
+        "name": "Lokeren",
+        "pts": 15.3,
+        "rank": 177,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/51949.png"
+    },
+    {
+        "name": "Westerlo",
+        "pts": 15.3,
+        "rank": 178,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64124.png"
+    },
+    {
+        "name": "Ferencváros",
+        "pts": 15,
+        "rank": 179,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52298.png"
+    },
+    {
+        "name": "Slovan Bratislava",
+        "pts": 15,
+        "rank": 180,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52797.png"
+    },
+    {
+        "name": "HJK",
+        "pts": 15,
+        "rank": 181,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50052.png"
+    },
+    {
+        "name": "Willem II",
+        "pts": 14.952,
+        "rank": 182,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52987.png"
+    },
+    {
+        "name": "Utrecht",
+        "pts": 14.952,
+        "rank": 183,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52323.png"
+    },
+    {
+        "name": "Vitesse",
+        "pts": 14.952,
+        "rank": 184,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52985.png"
+    },
+    {
+        "name": "Heracles",
+        "pts": 14.952,
+        "rank": 185,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/89710.png"
+    },
+    {
+        "name": "Groningen",
+        "pts": 14.952,
+        "rank": 186,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50144.png"
+    },
+    {
+        "name": "Go Ahead Eagles",
+        "pts": 14.952,
+        "rank": 187,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64207.png"
+    },
+    {
+        "name": "Zwolle",
+        "pts": 14.952,
+        "rank": 188,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/77910.png"
+    },
+    {
+        "name": "Heerenveen",
+        "pts": 14.952,
+        "rank": 189,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59862.png"
+    },
+    {
+        "name": "Den Haag",
+        "pts": 14.952,
+        "rank": 190,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52982.png"
+    },
+    {
+        "name": "Hajduk Split",
+        "pts": 14,
+        "rank": 191,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52359.png"
+    },
+    {
+        "name": "AEK Larnaca",
+        "pts": 14,
+        "rank": 192,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/54191.png"
+    },
+    {
+        "name": "Astra",
+        "pts": 14,
+        "rank": 193,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/69611.png"
+    },
+    {
+        "name": "Lech",
+        "pts": 13,
+        "rank": 194,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64227.png"
+    },
+    {
+        "name": "Sivasspor",
+        "pts": 12.94,
+        "rank": 195,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/89728.png"
+    },
+    {
+        "name": "Alanyaspor",
+        "pts": 12.94,
+        "rank": 196,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2607117.png"
+    },
+    {
+        "name": "Yeni Malatyaspor",
+        "pts": 12.94,
+        "rank": 197,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/78058.png"
+    },
+    {
+        "name": "Akhisar",
+        "pts": 12.94,
+        "rank": 198,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2604479.png"
+    },
+    {
+        "name": "Konyaspor",
+        "pts": 12.94,
+        "rank": 199,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/84515.png"
+    },
+    {
+        "name": "Osmanlıspor",
+        "pts": 12.94,
+        "rank": 200,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/88360.png"
+    },
+    {
+        "name": "Karabükspor",
+        "pts": 12.94,
+        "rank": 201,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2602463.png"
+    },
+    {
+        "name": "Bursaspor",
+        "pts": 12.94,
+        "rank": 202,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52695.png"
+    },
+    {
+        "name": "Eskişehirspor",
+        "pts": 12.94,
+        "rank": 203,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64266.png"
+    },
+    {
+        "name": "Gaziantepspor",
+        "pts": 12.94,
+        "rank": 204,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/60563.png"
+    },
+    {
+        "name": "M. Haifa",
+        "pts": 12.5,
+        "rank": 205,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59045.png"
+    },
+    {
+        "name": "Spartak Trnava",
+        "pts": 12.5,
+        "rank": 206,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52904.png"
+    },
+    {
+        "name": "Panathinaikos",
+        "pts": 12.5,
+        "rank": 207,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50084.png"
+    },
+    {
+        "name": "Wolfsberg",
+        "pts": 12.185,
+        "rank": 208,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2603990.png"
+    },
+    {
+        "name": "Hartberg",
+        "pts": 12.185,
+        "rank": 209,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2601074.png"
+    },
+    {
+        "name": "Sturm",
+        "pts": 12.185,
+        "rank": 210,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50111.png"
+    },
+    {
+        "name": "Admira",
+        "pts": 12.185,
+        "rank": 211,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/69180.png"
+    },
+    {
+        "name": "Altach",
+        "pts": 12.185,
+        "rank": 212,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/92382.png"
+    },
+    {
+        "name": "Grödig",
+        "pts": 12.185,
+        "rank": 213,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2601058.png"
+    },
+    {
+        "name": "St Pölten",
+        "pts": 12.185,
+        "rank": 214,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2602679.png"
+    },
+    {
+        "name": "Pasching",
+        "pts": 12.185,
+        "rank": 215,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2601069.png"
+    },
+    {
+        "name": "Ried",
+        "pts": 12.185,
+        "rank": 216,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/61618.png"
+    },
+    {
+        "name": "Dundalk",
+        "pts": 12,
+        "rank": 217,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50055.png"
+    },
+    {
+        "name": "St. Gallen",
+        "pts": 12,
+        "rank": 218,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/51151.png"
+    },
+    {
+        "name": "TNS",
+        "pts": 12,
+        "rank": 219,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/60457.png"
+    },
+    {
+        "name": "Servette",
+        "pts": 12,
+        "rank": 220,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50008.png"
+    },
+    {
+        "name": "Dinamo Minsk",
+        "pts": 12,
+        "rank": 221,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50161.png"
+    },
+    {
+        "name": "Diddeleng",
+        "pts": 12,
+        "rank": 222,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59028.png"
+    },
+    {
+        "name": "Lugano",
+        "pts": 12,
+        "rank": 223,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/8538.png"
+    },
+    {
+        "name": "Luzern",
+        "pts": 12,
+        "rank": 224,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52808.png"
+    },
+    {
+        "name": "Thun",
+        "pts": 12,
+        "rank": 225,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/80409.png"
+    },
+    {
+        "name": "Sion",
+        "pts": 12,
+        "rank": 226,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52824.png"
+    },
+    {
+        "name": "Grasshoppers",
+        "pts": 12,
+        "rank": 227,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50004.png"
+    },
+    {
+        "name": "Jablonec",
+        "pts": 11.905,
+        "rank": 228,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/62169.png"
+    },
+    {
+        "name": "Mladá Boleslav",
+        "pts": 11.905,
+        "rank": 229,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/88134.png"
+    },
+    {
+        "name": "Sigma",
+        "pts": 11.905,
+        "rank": 230,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52905.png"
+    },
+    {
+        "name": "Zlín",
+        "pts": 11.905,
+        "rank": 231,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/65129.png"
+    },
+    {
+        "name": "Dinamo Tbilisi",
+        "pts": 11.75,
+        "rank": 232,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52705.png"
+    },
+    {
+        "name": "Neftçi",
+        "pts": 11.75,
+        "rank": 233,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59890.png"
+    },
+    {
+        "name": "Esbjerg",
+        "pts": 11.5,
+        "rank": 234,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64140.png"
+    },
+    {
+        "name": "Asteras",
+        "pts": 11.5,
+        "rank": 235,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2600293.png"
+    },
+    {
+        "name": "Sarajevo",
+        "pts": 11.25,
+        "rank": 236,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64378.png"
+    },
+    {
+        "name": "Aris",
+        "pts": 11.14,
+        "rank": 237,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52949.png"
+    },
+    {
+        "name": "OFI",
+        "pts": 11.14,
+        "rank": 238,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52953.png"
+    },
+    {
+        "name": "Atromitos",
+        "pts": 11.14,
+        "rank": 239,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/84641.png"
+    },
+    {
+        "name": "Panionios",
+        "pts": 11.14,
+        "rank": 240,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52955.png"
+    },
+    {
+        "name": "Giannina",
+        "pts": 11.14,
+        "rank": 241,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/75800.png"
+    },
+    {
+        "name": "Xanthi",
+        "pts": 11.14,
+        "rank": 242,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52956.png"
+    },
+    {
+        "name": "Olympiacos Volou",
+        "pts": 11.14,
+        "rank": 243,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2601225.png"
+    },
+    {
+        "name": "AIK",
+        "pts": 11,
+        "rank": 244,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52341.png"
+    },
+    {
+        "name": "Shkëndija",
+        "pts": 10.75,
+        "rank": 245,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/75807.png"
+    },
+    {
+        "name": "Ventspils",
+        "pts": 10.75,
+        "rank": 246,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64359.png"
+    },
+    {
+        "name": "Aberdeen",
+        "pts": 10.5,
+        "rank": 247,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50122.png"
+    },
+    {
+        "name": "Žalgiris",
+        "pts": 10.5,
+        "rank": 248,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2602334.png"
+    },
+    {
+        "name": "Brøndby",
+        "pts": 10.5,
+        "rank": 249,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50021.png"
+    },
+    {
+        "name": "Skënderbeu",
+        "pts": 10.5,
+        "rank": 250,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64114.png"
+    },
+    {
+        "name": "Motherwell",
+        "pts": 10.135,
+        "rank": 251,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/53035.png"
+    },
+    {
+        "name": "Kilmarnock",
+        "pts": 10.135,
+        "rank": 252,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/62178.png"
+    },
+    {
+        "name": "Hibernian",
+        "pts": 10.135,
+        "rank": 253,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52821.png"
+    },
+    {
+        "name": "St Johnstone",
+        "pts": 10.135,
+        "rank": 254,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64249.png"
+    },
+    {
+        "name": "Hearts",
+        "pts": 10.135,
+        "rank": 255,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50120.png"
+    },
+    {
+        "name": "Inverness",
+        "pts": 10.135,
+        "rank": 256,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/88279.png"
+    },
+    {
+        "name": "Dundee United",
+        "pts": 10.135,
+        "rank": 257,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50079.png"
+    },
+    {
+        "name": "Lokomotiva Zagreb",
+        "pts": 10.03,
+        "rank": 258,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2600783.png"
+    },
+    {
+        "name": "Osijek",
+        "pts": 10.03,
+        "rank": 259,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/53082.png"
+    },
+    {
+        "name": "Split",
+        "pts": 10.03,
+        "rank": 260,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2601166.png"
+    },
+    {
+        "name": "Slaven Koprivnica",
+        "pts": 10.03,
+        "rank": 261,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64321.png"
+    },
+    {
+        "name": "Varaždin",
+        "pts": 10.03,
+        "rank": 262,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/60514.png"
+    },
+    {
+        "name": "Sūduva",
+        "pts": 10,
+        "rank": 263,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/79557.png"
+    },
+    {
+        "name": "Nordsjælland",
+        "pts": 10,
+        "rank": 264,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/79940.png"
+    },
+    {
+        "name": "Östersund",
+        "pts": 10,
+        "rank": 265,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2602507.png"
+    },
+    {
+        "name": "Omonoia",
+        "pts": 9.985,
+        "rank": 266,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50077.png"
+    },
+    {
+        "name": "Anorthosis",
+        "pts": 9.985,
+        "rank": 267,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52897.png"
+    },
+    {
+        "name": "AEL",
+        "pts": 9.985,
+        "rank": 268,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52800.png"
+    },
+    {
+        "name": "Ermis",
+        "pts": 9.985,
+        "rank": 269,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/77891.png"
+    },
+    {
+        "name": "Zrinjski",
+        "pts": 9.75,
+        "rank": 270,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/73390.png"
+    },
+    {
+        "name": "Valletta",
+        "pts": 9.75,
+        "rank": 271,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52641.png"
+    },
+    {
+        "name": "H. Tel-Aviv",
+        "pts": 9.5,
+        "rank": 272,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59869.png"
+    },
+    {
+        "name": "SønderjyskE",
+        "pts": 9.295,
+        "rank": 273,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/89694.png"
+    },
+    {
+        "name": "AGF",
+        "pts": 9.295,
+        "rank": 274,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50019.png"
+    },
+    {
+        "name": "Lyngby",
+        "pts": 9.295,
+        "rank": 275,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50020.png"
+    },
+    {
+        "name": "Randers",
+        "pts": 9.295,
+        "rank": 276,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64146.png"
+    },
+    {
+        "name": "AaB",
+        "pts": 9.295,
+        "rank": 277,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/54186.png"
+    },
+    {
+        "name": "Horsens",
+        "pts": 9.295,
+        "rank": 278,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/89695.png"
+    },
+    {
+        "name": "OB",
+        "pts": 9.295,
+        "rank": 279,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52233.png"
+    },
+    {
+        "name": "FH",
+        "pts": 9,
+        "rank": 280,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59329.png"
+    },
+    {
+        "name": "Flora",
+        "pts": 8.75,
+        "rank": 281,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59341.png"
+    },
+    {
+        "name": "Vojvodina",
+        "pts": 8.75,
+        "rank": 282,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52810.png"
+    },
+    {
+        "name": "Linfield",
+        "pts": 8.75,
+        "rank": 283,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50134.png"
+    },
+    {
+        "name": "Olimpija Ljubljana",
+        "pts": 8.75,
+        "rank": 284,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/53081.png"
+    },
+    {
+        "name": "Kukës",
+        "pts": 8.75,
+        "rank": 285,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2604186.png"
+    },
+    {
+        "name": "Shakhtyor",
+        "pts": 8.75,
+        "rank": 286,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64375.png"
+    },
+    {
+        "name": "Botoşani",
+        "pts": 8.716,
+        "rank": 287,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2605104.png"
+    },
+    {
+        "name": "Universitatea Craiova",
+        "pts": 8.716,
+        "rank": 288,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2606501.png"
+    },
+    {
+        "name": "Viitorul",
+        "pts": 8.716,
+        "rank": 289,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2604753.png"
+    },
+    {
+        "name": "Dinamo Bucureşti",
+        "pts": 8.716,
+        "rank": 290,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50098.png"
+    },
+    {
+        "name": "Pandurii",
+        "pts": 8.716,
+        "rank": 291,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/89720.png"
+    },
+    {
+        "name": "CSMS laşi",
+        "pts": 8.716,
+        "rank": 292,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2604752.png"
+    },
+    {
+        "name": "Târgu Mureş",
+        "pts": 8.716,
+        "rank": 293,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2602460.png"
+    },
+    {
+        "name": "Petrolul",
+        "pts": 8.716,
+        "rank": 294,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/53030.png"
+    },
+    {
+        "name": "Vaslui",
+        "pts": 8.716,
+        "rank": 295,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/89719.png"
+    },
+    {
+        "name": "Rapid Bucureşti",
+        "pts": 8.716,
+        "rank": 296,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59039.png"
+    },
+    {
+        "name": "Oţelul",
+        "pts": 8.716,
+        "rank": 297,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50151.png"
+    },
+    {
+        "name": "Gaz Metan",
+        "pts": 8.716,
+        "rank": 298,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/75823.png"
+    },
+    {
+        "name": "Beitar Jerusalem",
+        "pts": 8.6,
+        "rank": 299,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59034.png"
+    },
+    {
+        "name": "Bnei Yehuda",
+        "pts": 8.6,
+        "rank": 300,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64189.png"
+    },
+    {
+        "name": "H. Haifa",
+        "pts": 8.6,
+        "rank": 301,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/60573.png"
+    },
+    {
+        "name": "H. Kiryat Shmona",
+        "pts": 8.6,
+        "rank": 302,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2600291.png"
+    },
+    {
+        "name": "H. Ramat Gan",
+        "pts": 8.6,
+        "rank": 303,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/83484.png"
+    },
+    {
+        "name": "M. Netanya",
+        "pts": 8.6,
+        "rank": 304,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/73561.png"
+    },
+    {
+        "name": "Kalju",
+        "pts": 8.5,
+        "rank": 305,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2600371.png"
+    },
+    {
+        "name": "Backa Topola",
+        "pts": 8.275,
+        "rank": 306,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2610140.png"
+    },
+    {
+        "name": "Čukarički",
+        "pts": 8.275,
+        "rank": 307,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/60570.png"
+    },
+    {
+        "name": "Radnicki Niš",
+        "pts": 8.275,
+        "rank": 308,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52734.png"
+    },
+    {
+        "name": "Spartak Subotica",
+        "pts": 8.275,
+        "rank": 309,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/53079.png"
+    },
+    {
+        "name": "Mladost Lučani",
+        "pts": 8.275,
+        "rank": 310,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64530.png"
+    },
+    {
+        "name": "Jagodina",
+        "pts": 8.275,
+        "rank": 311,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2600521.png"
+    },
+    {
+        "name": "Rad",
+        "pts": 8.275,
+        "rank": 312,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52827.png"
+    },
+    {
+        "name": "Shamrock Rovers",
+        "pts": 8.25,
+        "rank": 313,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52381.png"
+    },
+    {
+        "name": "Vaduz",
+        "pts": 8.25,
+        "rank": 314,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/57482.png"
+    },
+    {
+        "name": "Djurgården",
+        "pts": 8.075,
+        "rank": 315,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52809.png"
+    },
+    {
+        "name": "Göteborg",
+        "pts": 8.075,
+        "rank": 316,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50066.png"
+    },
+    {
+        "name": "Hammarby",
+        "pts": 8.075,
+        "rank": 317,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52343.png"
+    },
+    {
+        "name": "Norrköping",
+        "pts": 8.075,
+        "rank": 318,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50099.png"
+    },
+    {
+        "name": "Häcken",
+        "pts": 8.075,
+        "rank": 319,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/69621.png"
+    },
+    {
+        "name": "Elfsborg",
+        "pts": 8.075,
+        "rank": 320,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52344.png"
+    },
+    {
+        "name": "Brommapojkarna",
+        "pts": 8.075,
+        "rank": 321,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2600094.png"
+    },
+    {
+        "name": "Gefle",
+        "pts": 8.075,
+        "rank": 322,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/89251.png"
+    },
+    {
+        "name": "Helsingborg",
+        "pts": 8.075,
+        "rank": 323,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/60401.png"
+    },
+    {
+        "name": "Kalmar",
+        "pts": 8.075,
+        "rank": 324,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/54187.png"
+    },
+    {
+        "name": "Örebro",
+        "pts": 8.075,
+        "rank": 325,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/53049.png"
+    },
+    {
+        "name": "Bodø/Glimt",
+        "pts": 8.05,
+        "rank": 326,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59333.png"
+    },
+    {
+        "name": "Viking",
+        "pts": 8.05,
+        "rank": 327,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52319.png"
+    },
+    {
+        "name": "Haugesund",
+        "pts": 8.05,
+        "rank": 328,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64214.png"
+    },
+    {
+        "name": "Brann",
+        "pts": 8.05,
+        "rank": 329,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52770.png"
+    },
+    {
+        "name": "Sarpsborg",
+        "pts": 8.05,
+        "rank": 330,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2604486.png"
+    },
+    {
+        "name": "Lillestrøm",
+        "pts": 8.05,
+        "rank": 331,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52314.png"
+    },
+    {
+        "name": "Odd",
+        "pts": 8.05,
+        "rank": 332,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/71256.png"
+    },
+    {
+        "name": "Strømsgodset",
+        "pts": 8.05,
+        "rank": 333,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/57485.png"
+    },
+    {
+        "name": "Stabæk",
+        "pts": 8.05,
+        "rank": 334,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/61584.png"
+    },
+    {
+        "name": "Tromsø",
+        "pts": 8.05,
+        "rank": 335,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/53001.png"
+    },
+    {
+        "name": "Hødd",
+        "pts": 8.05,
+        "rank": 336,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2603713.png"
+    },
+    {
+        "name": "Aalesund",
+        "pts": 8.05,
+        "rank": 337,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/82819.png"
+    },
+    {
+        "name": "Vålerenga",
+        "pts": 8.05,
+        "rank": 338,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52318.png"
+    },
+    {
+        "name": "CSKA-Sofia",
+        "pts": 8,
+        "rank": 339,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2608297.png"
+    },
+    {
+        "name": "Budućnost Podgorica",
+        "pts": 8,
+        "rank": 340,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/53078.png"
+    },
+    {
+        "name": "Kairat",
+        "pts": 8,
+        "rank": 341,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/79970.png"
+    },
+    {
+        "name": "Wisła Kraków",
+        "pts": 8,
+        "rank": 342,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52651.png"
+    },
+    {
+        "name": "Fola",
+        "pts": 7.75,
+        "rank": 343,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/7607.png"
+    },
+    {
+        "name": "Gabala",
+        "pts": 7.75,
+        "rank": 344,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/93628.png"
+    },
+    {
+        "name": "Piast",
+        "pts": 7.525,
+        "rank": 345,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2600545.png"
+    },
+    {
+        "name": "Cracovia",
+        "pts": 7.525,
+        "rank": 346,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/88133.png"
+    },
+    {
+        "name": "Lechia",
+        "pts": 7.525,
+        "rank": 347,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52763.png"
+    },
+    {
+        "name": "Jagiellonia",
+        "pts": 7.525,
+        "rank": 348,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2600277.png"
+    },
+    {
+        "name": "Górnik Zabrze",
+        "pts": 7.525,
+        "rank": 349,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50063.png"
+    },
+    {
+        "name": "Arka",
+        "pts": 7.525,
+        "rank": 350,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64219.png"
+    },
+    {
+        "name": "Zagłębie",
+        "pts": 7.525,
+        "rank": 351,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/53007.png"
+    },
+    {
+        "name": "Śląsk",
+        "pts": 7.525,
+        "rank": 352,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52655.png"
+    },
+    {
+        "name": "Ruch",
+        "pts": 7.525,
+        "rank": 353,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52807.png"
+    },
+    {
+        "name": "Zawisza",
+        "pts": 7.525,
+        "rank": 354,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2602720.png"
+    },
+    {
+        "name": "KR Reykjavik",
+        "pts": 7.5,
+        "rank": 355,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52307.png"
+    },
+    {
+        "name": "Željezničar",
+        "pts": 7.5,
+        "rank": 356,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64381.png"
+    },
+    {
+        "name": "Pyunik",
+        "pts": 7.5,
+        "rank": 357,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/77431.png"
+    },
+    {
+        "name": "Trenčín",
+        "pts": 7.5,
+        "rank": 358,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64315.png"
+    },
+    {
+        "name": "Lincoln Red Imps",
+        "pts": 7.25,
+        "rank": 359,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2605572.png"
+    },
+    {
+        "name": "Dinamo Brest",
+        "pts": 7.05,
+        "rank": 360,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64374.png"
+    },
+    {
+        "name": "Vitebsk",
+        "pts": 7.05,
+        "rank": 361,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64296.png"
+    },
+    {
+        "name": "Torpedo Zhodino",
+        "pts": 7.05,
+        "rank": 362,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/79551.png"
+    },
+    {
+        "name": "Neman",
+        "pts": 7.05,
+        "rank": 363,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59024.png"
+    },
+    {
+        "name": "Minsk",
+        "pts": 7.05,
+        "rank": 364,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2600108.png"
+    },
+    {
+        "name": "Gomel",
+        "pts": 7.05,
+        "rank": 365,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/66169.png"
+    },
+    {
+        "name": "Naftan",
+        "pts": 7.05,
+        "rank": 366,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64372.png"
+    },
+    {
+        "name": "Sutjeska",
+        "pts": 7,
+        "rank": 367,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/73936.png"
+    },
+    {
+        "name": "Alashkert",
+        "pts": 7,
+        "rank": 368,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2605268.png"
+    },
+    {
+        "name": "FC Santa Coloma",
+        "pts": 7,
+        "rank": 369,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/62180.png"
+    },
+    {
+        "name": "Vardar",
+        "pts": 7,
+        "rank": 370,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/53080.png"
+    },
+    {
+        "name": "Levadia",
+        "pts": 6.75,
+        "rank": 371,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/77482.png"
+    },
+    {
+        "name": "Crusaders",
+        "pts": 6.75,
+        "rank": 372,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52992.png"
+    },
+    {
+        "name": "Lokomotiv Plovdiv",
+        "pts": 6.7,
+        "rank": 373,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52369.png"
+    },
+    {
+        "name": "Slavia Sofia",
+        "pts": 6.7,
+        "rank": 374,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50117.png"
+    },
+    {
+        "name": "Levski",
+        "pts": 6.7,
+        "rank": 375,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50044.png"
+    },
+    {
+        "name": "Botev Plovdiv",
+        "pts": 6.7,
+        "rank": 376,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/57466.png"
+    },
+    {
+        "name": "Dunav",
+        "pts": 6.7,
+        "rank": 377,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52888.png"
+    },
+    {
+        "name": "Beroe",
+        "pts": 6.7,
+        "rank": 378,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/73511.png"
+    },
+    {
+        "name": "Cherno More",
+        "pts": 6.7,
+        "rank": 379,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/75787.png"
+    },
+    {
+        "name": "Litex",
+        "pts": 6.7,
+        "rank": 380,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64126.png"
+    },
+    {
+        "name": "CSKA Sofia",
+        "pts": 6.7,
+        "rank": 381,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50076.png"
+    },
+    {
+        "name": "Lokomotiv Sofia",
+        "pts": 6.7,
+        "rank": 382,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52891.png"
+    },
+    {
+        "name": "KuPS",
+        "pts": 6.5,
+        "rank": 383,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52350.png"
+    },
+    {
+        "name": "B36",
+        "pts": 6.5,
+        "rank": 384,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/57476.png"
+    },
+    {
+        "name": "Honvéd",
+        "pts": 6.5,
+        "rank": 385,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50054.png"
+    },
+    {
+        "name": "Domžale",
+        "pts": 6.5,
+        "rank": 386,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/70690.png"
+    },
+    {
+        "name": "Debrecen",
+        "pts": 6.5,
+        "rank": 387,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52958.png"
+    },
+    {
+        "name": "Keşla",
+        "pts": 6.35,
+        "rank": 388,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/74072.png"
+    },
+    {
+        "name": "Sumqayıt",
+        "pts": 6.35,
+        "rank": 389,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2603921.png"
+    },
+    {
+        "name": "Sabail",
+        "pts": 6.35,
+        "rank": 390,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2608569.png"
+    },
+    {
+        "name": "Zirä FK",
+        "pts": 6.35,
+        "rank": 391,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2607480.png"
+    },
+    {
+        "name": "Käpäz",
+        "pts": 6.35,
+        "rank": 392,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59889.png"
+    },
+    {
+        "name": "Xäzär Länkäran",
+        "pts": 6.35,
+        "rank": 393,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/88567.png"
+    },
+    {
+        "name": "Bakı",
+        "pts": 6.35,
+        "rank": 394,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/68201.png"
+    },
+    {
+        "name": "Olimpik-Şüvälan",
+        "pts": 6.35,
+        "rank": 395,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/89673.png"
+    },
+    {
+        "name": "Žilina",
+        "pts": 6,
+        "rank": 396,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/61601.png"
+    },
+    {
+        "name": "Kaysar",
+        "pts": 5.95,
+        "rank": 397,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/79971.png"
+    },
+    {
+        "name": "Ordabasy",
+        "pts": 5.95,
+        "rank": 398,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/82825.png"
+    },
+    {
+        "name": "Tobol",
+        "pts": 5.95,
+        "rank": 399,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/79969.png"
+    },
+    {
+        "name": "Irtysh",
+        "pts": 5.95,
+        "rank": 400,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/79964.png"
+    },
+    {
+        "name": "Aktobe",
+        "pts": 5.95,
+        "rank": 401,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/79973.png"
+    },
+    {
+        "name": "Shakhter",
+        "pts": 5.95,
+        "rank": 402,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/79968.png"
+    },
+    {
+        "name": "Zhetysu",
+        "pts": 5.95,
+        "rank": 403,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/82828.png"
+    },
+    {
+        "name": "Progrès",
+        "pts": 5.75,
+        "rank": 404,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52311.png"
+    },
+    {
+        "name": "Riteriai",
+        "pts": 5.75,
+        "rank": 405,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2606168.png"
+    },
+    {
+        "name": "Stjarnan",
+        "pts": 5.75,
+        "rank": 406,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52308.png"
+    },
+    {
+        "name": "Rabotnicki",
+        "pts": 5.75,
+        "rank": 407,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/69601.png"
+    },
+    {
+        "name": "Riga",
+        "pts": 5.5,
+        "rank": 408,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2607924.png"
+    },
+    {
+        "name": "Hibernians",
+        "pts": 5.5,
+        "rank": 409,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52640.png"
+    },
+    {
+        "name": "Milsami",
+        "pts": 5.5,
+        "rank": 410,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2600714.png"
+    },
+    {
+        "name": "Mura",
+        "pts": 5.475,
+        "rank": 411,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2607561.png"
+    },
+    {
+        "name": "Celje",
+        "pts": 5.475,
+        "rank": 412,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59030.png"
+    },
+    {
+        "name": "Rudar Velenje",
+        "pts": 5.475,
+        "rank": 413,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59860.png"
+    },
+    {
+        "name": "Gorica",
+        "pts": 5.475,
+        "rank": 414,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/60403.png"
+    },
+    {
+        "name": "Koper",
+        "pts": 5.475,
+        "rank": 415,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/69617.png"
+    },
+    {
+        "name": "Mura",
+        "pts": 5.475,
+        "rank": 416,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59338.png"
+    },
+    {
+        "name": "KÍ",
+        "pts": 5.25,
+        "rank": 417,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/57475.png"
+    },
+    {
+        "name": "Differdange",
+        "pts": 5.25,
+        "rank": 418,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52309.png"
+    },
+    {
+        "name": "Dunajská Streda",
+        "pts": 5.125,
+        "rank": 419,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50156.png"
+    },
+    {
+        "name": "Ružomberok",
+        "pts": 5.125,
+        "rank": 420,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64319.png"
+    },
+    {
+        "name": "Spartak Myjava",
+        "pts": 5.125,
+        "rank": 421,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2602937.png"
+    },
+    {
+        "name": "Košice",
+        "pts": 5.125,
+        "rank": 422,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59029.png"
+    },
+    {
+        "name": "Senica",
+        "pts": 5.125,
+        "rank": 423,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50100.png"
+    },
+    {
+        "name": "Puskás Akadémia",
+        "pts": 5.075,
+        "rank": 424,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2605472.png"
+    },
+    {
+        "name": "Újpest",
+        "pts": 5.075,
+        "rank": 425,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50132.png"
+    },
+    {
+        "name": "Vasas",
+        "pts": 5.075,
+        "rank": 426,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52962.png"
+    },
+    {
+        "name": "MTK",
+        "pts": 5.075,
+        "rank": 427,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52815.png"
+    },
+    {
+        "name": "Diósgyőr",
+        "pts": 5.075,
+        "rank": 428,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64176.png"
+    },
+    {
+        "name": "Győr",
+        "pts": 5.075,
+        "rank": 429,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52287.png"
+    },
+    {
+        "name": "Paks",
+        "pts": 5.075,
+        "rank": 430,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/93452.png"
+    },
+    {
+        "name": "Kecskemét",
+        "pts": 5.075,
+        "rank": 431,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/77898.png"
+    },
+    {
+        "name": "Ararat-Armenia",
+        "pts": 5,
+        "rank": 432,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2610304.png"
+    },
+    {
+        "name": "Laç",
+        "pts": 5,
+        "rank": 433,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64111.png"
+    },
+    {
+        "name": "Chikhura",
+        "pts": 5,
+        "rank": 434,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/92452.png"
+    },
+    {
+        "name": "Titograd",
+        "pts": 5,
+        "rank": 435,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2600103.png"
+    },
+    {
+        "name": "Široki Brijeg",
+        "pts": 5,
+        "rank": 436,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/73387.png"
+    },
+    {
+        "name": "Cliftonville",
+        "pts": 5,
+        "rank": 437,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52991.png"
+    },
+    {
+        "name": "St Patrick's",
+        "pts": 5,
+        "rank": 438,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50133.png"
+    },
+    {
+        "name": "Connah's Quay",
+        "pts": 4.75,
+        "rank": 439,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64275.png"
+    },
+    {
+        "name": "HB",
+        "pts": 4.75,
+        "rank": 440,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59025.png"
+    },
+    {
+        "name": "Cork",
+        "pts": 4.75,
+        "rank": 441,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52803.png"
+    },
+    {
+        "name": "Vikingur",
+        "pts": 4.75,
+        "rank": 442,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59325.png"
+    },
+    {
+        "name": "Europa",
+        "pts": 4.5,
+        "rank": 443,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2606416.png"
+    },
+    {
+        "name": "La Fiorita",
+        "pts": 4.5,
+        "rank": 444,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64508.png"
+    },
+    {
+        "name": "Partizani",
+        "pts": 4.5,
+        "rank": 445,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52876.png"
+    },
+    {
+        "name": "Breidablik",
+        "pts": 4.25,
+        "rank": 446,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/71235.png"
+    },
+    {
+        "name": "Valur",
+        "pts": 4.25,
+        "rank": 447,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50057.png"
+    },
+    {
+        "name": "Torpedo Kutaisi",
+        "pts": 4.25,
+        "rank": 448,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64471.png"
+    },
+    {
+        "name": "Dila",
+        "pts": 4.25,
+        "rank": 449,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64467.png"
+    },
+    {
+        "name": "Ekranas",
+        "pts": 4.25,
+        "rank": 450,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59035.png"
+    },
+    {
+        "name": "Zeta",
+        "pts": 4,
+        "rank": 451,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/75834.png"
+    },
+    {
+        "name": "Shirak",
+        "pts": 4,
+        "rank": 452,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59877.png"
+    },
+    {
+        "name": "Tre Penne",
+        "pts": 4,
+        "rank": 453,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64515.png"
+    },
+    {
+        "name": "Liepāja",
+        "pts": 4,
+        "rank": 454,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2606320.png"
+    },
+    {
+        "name": "Eschen/Mauren",
+        "pts": 3.9,
+        "rank": 455,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64198.png"
+    },
+    {
+        "name": "Tirana",
+        "pts": 3.75,
+        "rank": 456,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50049.png"
+    },
+    {
+        "name": "NSÍ",
+        "pts": 3.75,
+        "rank": 457,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64150.png"
+    },
+    {
+        "name": "Spartaks Jūrmala",
+        "pts": 3.75,
+        "rank": 458,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2602918.png"
+    },
+    {
+        "name": "Birkirkara",
+        "pts": 3.75,
+        "rank": 459,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/62171.png"
+    },
+    {
+        "name": "Drita",
+        "pts": 3.5,
+        "rank": 460,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2608290.png"
+    },
+    {
+        "name": "Tre Fiori",
+        "pts": 3.5,
+        "rank": 461,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64514.png"
+    },
+    {
+        "name": "Rudar Pljevlja",
+        "pts": 3.5,
+        "rank": 462,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/77927.png"
+    },
+    {
+        "name": "Teuta",
+        "pts": 3.25,
+        "rank": 463,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59316.png"
+    },
+    {
+        "name": "Derry",
+        "pts": 3.25,
+        "rank": 464,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50086.png"
+    },
+    {
+        "name": "Balzan",
+        "pts": 3.25,
+        "rank": 465,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/84734.png"
+    },
+    {
+        "name": "FCSG",
+        "pts": 3.2,
+        "rank": 466,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2600716.png"
+    },
+    {
+        "name": "Petrocub",
+        "pts": 3.2,
+        "rank": 467,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2607112.png"
+    },
+    {
+        "name": "Dinamo-Auto",
+        "pts": 3.2,
+        "rank": 468,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2603729.png"
+    },
+    {
+        "name": "Speranța Nisporeni",
+        "pts": 3.2,
+        "rank": 469,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2606852.png"
+    },
+    {
+        "name": "Zaria Balti",
+        "pts": 3.2,
+        "rank": 470,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2606488.png"
+    },
+    {
+        "name": "Dacia",
+        "pts": 3.2,
+        "rank": 471,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/79949.png"
+    },
+    {
+        "name": "Zimbru",
+        "pts": 3.2,
+        "rank": 472,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59036.png"
+    },
+    {
+        "name": "Saxan",
+        "pts": 3.2,
+        "rank": 473,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2604300.png"
+    },
+    {
+        "name": "Tiraspol",
+        "pts": 3.2,
+        "rank": 474,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/60611.png"
+    },
+    {
+        "name": "Veris",
+        "pts": 3.2,
+        "rank": 475,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2605187.png"
+    },
+    {
+        "name": "Iskra-Stal",
+        "pts": 3.2,
+        "rank": 476,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/92785.png"
+    },
+    {
+        "name": "Borac",
+        "pts": 3.025,
+        "rank": 477,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50104.png"
+    },
+    {
+        "name": "Radnik Bijeljina",
+        "pts": 3.025,
+        "rank": 478,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/77878.png"
+    },
+    {
+        "name": "Sloboda",
+        "pts": 3.025,
+        "rank": 479,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64379.png"
+    },
+    {
+        "name": "Olimpic Sarajevo",
+        "pts": 3.025,
+        "rank": 480,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64304.png"
+    },
+    {
+        "name": "Floriana",
+        "pts": 3,
+        "rank": 481,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50092.png"
+    },
+    {
+        "name": "Locomotive Tbilisi",
+        "pts": 3,
+        "rank": 482,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64325.png"
+    },
+    {
+        "name": "Bala",
+        "pts": 3,
+        "rank": 483,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2600717.png"
+    },
+    {
+        "name": "Saburtalo",
+        "pts": 3,
+        "rank": 484,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2605905.png"
+    },
+    {
+        "name": "Shkupi",
+        "pts": 3,
+        "rank": 485,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2606993.png"
+    },
+    {
+        "name": "Dinamo Batumi",
+        "pts": 3,
+        "rank": 486,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59885.png"
+    },
+    {
+        "name": "Urartu",
+        "pts": 3,
+        "rank": 487,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/77866.png"
+    },
+    {
+        "name": "Samtredia",
+        "pts": 3,
+        "rank": 488,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59884.png"
+    },
+    {
+        "name": "Tskhinvali",
+        "pts": 3,
+        "rank": 489,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2600302.png"
+    },
+    {
+        "name": "Sligo",
+        "pts": 3,
+        "rank": 490,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52660.png"
+    },
+    {
+        "name": "Zestafoni",
+        "pts": 3,
+        "rank": 491,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/88347.png"
+    },
+    {
+        "name": "Sioni",
+        "pts": 3,
+        "rank": 492,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64470.png"
+    },
+    {
+        "name": "Metalurgi Rustavi",
+        "pts": 3,
+        "rank": 493,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/61616.png"
+    },
+    {
+        "name": "Gagra",
+        "pts": 3,
+        "rank": 494,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2600544.png"
+    },
+    {
+        "name": "Inter Turku",
+        "pts": 2.855,
+        "rank": 495,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64161.png"
+    },
+    {
+        "name": "Ilves",
+        "pts": 2.855,
+        "rank": 496,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2602511.png"
+    },
+    {
+        "name": "Honka",
+        "pts": 2.855,
+        "rank": 497,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/91760.png"
+    },
+    {
+        "name": "RoPS",
+        "pts": 2.855,
+        "rank": 498,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52812.png"
+    },
+    {
+        "name": "Lahti",
+        "pts": 2.855,
+        "rank": 499,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50082.png"
+    },
+    {
+        "name": "Mariehamn",
+        "pts": 2.855,
+        "rank": 500,
+        "img": "https://img.uefa.com/imgml/TP/teams/logos/70x70/89248.png"
+    }
+]
